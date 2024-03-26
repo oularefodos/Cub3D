@@ -1,4 +1,4 @@
-<img width="1112" alt="Screen Shot 2024-03-26 at 5 37 13 PM" src="https://github.com/oularefodos/Cub3D/assets/83018207/1fb86e97-ff7a-424f-8a62-2a15f6e11963"># Cub3D
+# Cub3D
 
 ## About The Project
 Inspired by the eponymous 90's game, this project delves into the realm of ray-casting to create a dynamic view inside a maze. Explore the maze in a captivating 3D environment as you navigate through corridors and search for the exit.
