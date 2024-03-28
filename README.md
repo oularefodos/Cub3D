@@ -1,4 +1,4 @@
-# Cub3D
+# Ray-Cast Explorer
 
 ## About The Project
 Inspired by the eponymous 90's game, this project delves into the realm of ray-casting to create a dynamic view inside a maze. Explore the maze in a captivating 3D environment as you navigate through corridors and search for the exit.
